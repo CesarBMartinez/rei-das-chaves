@@ -1,4 +1,4 @@
-# rei-das-chaves
+# Rei das Chaves
 
 ## Project setup
 ```
